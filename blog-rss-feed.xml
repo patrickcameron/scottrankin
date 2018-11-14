@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+    <title>Scott Rankin</title>
+    <link>http://scottrank.in/blog.html</link>
+    <description>DESCRIPTION OF YOUR SITE</description>
+
+    <item>
+        <title>Will Boone</title>
+        <link>http://scottrank.in/blog.html</link>
+        <description>
+            <a href="http://www.andrearosengallery.com/artists/will-boone" target="_blank">andrearosengallery.com</a>
+            <![CDATA[<img src="http://scottrank.in/img/blog/will-boone/wb_01.jpg" alt="">]>
+            <![CDATA[<img src="http://scottrank.in/img/blog/will-boone/wb_02.jpg" alt="">]>
+            <![CDATA[<img src="http://scottrank.in/img/blog/will-boone/wb_03.jpg" alt="">]>
+            <![CDATA[<img src="http://scottrank.in/img/blog/will-boone/wb_04.jpg" alt="">]>
+            <![CDATA[<img src="http://scottrank.in/img/blog/will-boone/wb_05.jpg" alt="">]>
+            <![CDATA[<img src="http://scottrank.in/img/blog/will-boone/wb_06.jpg" alt="">]>
+            <![CDATA[<img src="http://scottrank.in/img/blog/will-boone/wb_07.jpg" alt="">]>
+            <![CDATA[<img src="http://scottrank.in/img/blog/will-boone/wb_08.jpg" alt="">]>
+            <![CDATA[<img src="http://scottrank.in/img/blog/will-boone/wb_09.jpg" alt="">]>
+        </description>
+        <pubDate>Nov 13 2018</pubDate>
+    </item>
+
+</channel>
+
+</rss>
